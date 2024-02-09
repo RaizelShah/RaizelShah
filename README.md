@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Raizel Shah
 - 👀 I’m interested in `Web Development` `Competetive Programming` 
 - 🌱 I’m currently learning `React` `Tailwind CSS`
-- 💞️ I’m looking to collaborate on Projects based on `React` and also ready to work for `free` for `experience`
+- 💞️ I’m looking to collaborate on Projects based on `React` and also ready to gain experience as much as I can.
 - 📫 LinkedIn https://www.linkedin.com/in/raizel-shah-496b54243/
 - 📫 Twitter https://twitter.com/Dev_by_Raizel
 - ⚡ Fun fact about me - I am really into Anime and I always welcome suggestions on which Anime to watch.
