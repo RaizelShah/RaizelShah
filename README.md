@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently building a website for a startup as an internship<br>👯 I’m looking to collaborate on projects as a Frontend Developer<br>🌱 I’m currently learning TypeScript and Backend Development<br>⚡ Fun fact, I am an Otaku. Suggestions on which Anime to watch are always welcome.
+🔭 I recently completed an internship as a junior Front-end developer in a startup where I accomplished the tasks of building web pages and adding features to the product and successfully integrate it with the backend system.<br>👯 I’m looking to collaborate on projects as a Frontend Developer<br>🌱 I’m currently learning TypeScript and Backend Development<br>⚡ Fun fact, I am an Otaku. Suggestions on which Anime to watch are always welcome.
 
 
 ## 🌐 Socials:
